@@ -1,5 +1,8 @@
 // control+opsion+N
 
+isupper //大文字
+
+
 #include <algorithm>
 
 string s;
