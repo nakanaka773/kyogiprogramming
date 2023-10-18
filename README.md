@@ -15,7 +15,7 @@ xのy乗
 pow(x,y)
 
 int  < long long
-
+d
 char to int
 
 string N;
