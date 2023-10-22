@@ -19,19 +19,31 @@
       "id": "abc073_b",
       "label": "B",
       "title": "Theater",
-      "url": "https://atcoder.jp/contests/abc073/tasks/abc073_b"
+      "url": "https://atcoder.jp/contests/abc073/tasks/abc073_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc073_c",
       "label": "C",
       "title": "Write and Erase",
-      "url": "https://atcoder.jp/contests/abc073/tasks/abc073_c"
+      "url": "https://atcoder.jp/contests/abc073/tasks/abc073_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc073_d",
       "label": "D",
       "title": "joisino's travel",
-      "url": "https://atcoder.jp/contests/abc073/tasks/abc073_d"
+      "url": "https://atcoder.jp/contests/abc073/tasks/abc073_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests"
+      }
     }
   ]
 }
