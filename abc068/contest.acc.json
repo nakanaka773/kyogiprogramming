@@ -19,19 +19,31 @@
       "id": "abc068_b",
       "label": "B",
       "title": "Break Number",
-      "url": "https://atcoder.jp/contests/abc068/tasks/abc068_b"
+      "url": "https://atcoder.jp/contests/abc068/tasks/abc068_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
     },
     {
       "id": "arc079_a",
       "label": "C",
       "title": "Cat Snuke and a Voyage",
-      "url": "https://atcoder.jp/contests/abc068/tasks/arc079_a"
+      "url": "https://atcoder.jp/contests/abc068/tasks/arc079_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
     },
     {
       "id": "arc079_b",
       "label": "D",
       "title": "Decrease (Contestant ver.)",
-      "url": "https://atcoder.jp/contests/abc068/tasks/arc079_b"
+      "url": "https://atcoder.jp/contests/abc068/tasks/arc079_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests"
+      }
     }
   ]
 }
