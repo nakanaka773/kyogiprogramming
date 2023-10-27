@@ -2,8 +2,13 @@
 using namespace std; 
 int main()
 {
-    int a,b;
+    long long a,b;
     cin >> a >> b;
-   cout << a/b << endl;
+    if(a % b == 0){
+        cout << a/b << endl;
+    }else{
+        cout << a/b+1 << endl;
+    }
+   
 
 }
