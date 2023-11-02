@@ -33,3 +33,8 @@ int p
 (char)('a'+p-1)
 
 p=2 b
+
+桁数たりない時
+#include <iomanip>
+cout << fixed << setprecision(10);
+桁数指定できる
