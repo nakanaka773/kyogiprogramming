@@ -38,3 +38,10 @@ p=2 b
 #include <iomanip>
 cout << fixed << setprecision(10);
 桁数指定できる
+
+ながさ
+s.length()
+
+ソート昇順
+#include<algorithm>
+sort(x, x+5);
