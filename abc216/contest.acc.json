@@ -19,43 +19,71 @@
       "id": "abc216_b",
       "label": "B",
       "title": "Same Name",
-      "url": "https://atcoder.jp/contests/abc216/tasks/abc216_b"
+      "url": "https://atcoder.jp/contests/abc216/tasks/abc216_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc216_c",
       "label": "C",
       "title": "Many Balls",
-      "url": "https://atcoder.jp/contests/abc216/tasks/abc216_c"
+      "url": "https://atcoder.jp/contests/abc216/tasks/abc216_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc216_d",
       "label": "D",
       "title": "Pair of Balls",
-      "url": "https://atcoder.jp/contests/abc216/tasks/abc216_d"
+      "url": "https://atcoder.jp/contests/abc216/tasks/abc216_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc216_e",
       "label": "E",
       "title": "Amusement Park",
-      "url": "https://atcoder.jp/contests/abc216/tasks/abc216_e"
+      "url": "https://atcoder.jp/contests/abc216/tasks/abc216_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc216_f",
       "label": "F",
       "title": "Max Sum Counting",
-      "url": "https://atcoder.jp/contests/abc216/tasks/abc216_f"
+      "url": "https://atcoder.jp/contests/abc216/tasks/abc216_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc216_g",
       "label": "G",
       "title": "01Sequence",
-      "url": "https://atcoder.jp/contests/abc216/tasks/abc216_g"
+      "url": "https://atcoder.jp/contests/abc216/tasks/abc216_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc216_h",
       "label": "H",
       "title": "Random Robots",
-      "url": "https://atcoder.jp/contests/abc216/tasks/abc216_h"
+      "url": "https://atcoder.jp/contests/abc216/tasks/abc216_h",
+      "directory": {
+        "path": "h",
+        "testdir": "tests"
+      }
     }
   ]
 }

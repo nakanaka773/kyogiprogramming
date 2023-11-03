@@ -45,3 +45,23 @@ s.length()
 ソート昇順
 #include<algorithm>
 sort(x, x+5);
+
+部分文章取り出し
+
+s1 = "testtest";
+cout << "s1.substr(3,3) = " << s1.substr(3,4) << endl;
+⇧3番目以降の４もじぶん
+ttes
+
+
+char -> int 変換
+string s;
+    cin >> s;
+    for(int i = 0; i < s.length()-1;i++){
+        if(int(s[i]-'0') <= int(s[i+1]-'0')){
+        }
+    }
+
+四捨五入
+#include <cmath>
+round(x)

@@ -1,11 +1,10 @@
 #include<iostream>
+#include <cmath>
 using namespace std; 
 int main()
 {
-    int n;
-    cin >> n;
-    int minit = n / 5;
-    int mostmin ;
-    mostmin = min((n-minit*5),((minit+1)*5-1))
-
+    int N;
+    cin >> N;
+    double x = N /5.0;
+    cout << int(round(x))*5 << endl;
 }
