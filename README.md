@@ -46,6 +46,9 @@ s.length()
 #include<algorithm>
 sort(x, x+5);
 
+string 
+ std::sort(word.begin(), word.end());
+
 部分文章取り出し
 
 s1 = "testtest";
@@ -61,6 +64,10 @@ string s;
         if(int(s[i]-'0') <= int(s[i+1]-'0')){
         }
     }
+
+string int 
+string s;
+stoi(s)
 
 四捨五入
 #include <cmath>
