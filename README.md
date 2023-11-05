@@ -72,3 +72,8 @@ stoi(s)
 四捨五入
 #include <cmath>
 round(x)
+
+置換　全て
+#include <regex>
+	string str1 = regex_replace("aaa-bba", regex("a"), "z");
+	cout << str1 << endl; //zzz-bbz

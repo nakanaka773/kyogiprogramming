@@ -4,18 +4,25 @@ int main()
 {
     int N;
     cin >> N;
-    int A[N];
-    int B[N];
+    int A[N], B[N];
+    for(int i = 0; i < N; i++){
+        cin >> A[i];
+    }
+    for(int i = 0; i < N; i++){
+        cin >> B[i];
+    }
     int x = 0;
     int y = 0;
     for(int i = 0; i < N; i++){
-        cin >> A[N];
+        if(A[i] == B[i]){
+            x++;
+        }
+        for(int j = 0; j < N;j++){
+            if(A[i] == B[j]&& i != j){
+                y++;
+            }
+        }
     }
-    for(int i = 0; i < N; i++){
-        cin >> B[N];
-    }
-    for(int i = 0; i < N; i++){
-        cout << A[i] << endl;
-    }
-
+    cout << x << endl;
+    cout << y << endl;
 }
