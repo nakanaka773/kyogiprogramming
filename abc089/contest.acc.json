@@ -19,19 +19,31 @@
       "id": "abc089_b",
       "label": "B",
       "title": "Hina Arare",
-      "url": "https://atcoder.jp/contests/abc089/tasks/abc089_b"
+      "url": "https://atcoder.jp/contests/abc089/tasks/abc089_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc089_c",
       "label": "C",
       "title": "March",
-      "url": "https://atcoder.jp/contests/abc089/tasks/abc089_c"
+      "url": "https://atcoder.jp/contests/abc089/tasks/abc089_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc089_d",
       "label": "D",
       "title": "Practical Skill Test",
-      "url": "https://atcoder.jp/contests/abc089/tasks/abc089_d"
+      "url": "https://atcoder.jp/contests/abc089/tasks/abc089_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests"
+      }
     }
   ]
 }

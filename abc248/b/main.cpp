@@ -2,14 +2,12 @@
 using namespace std; 
 int main()
 {
-    int A,B,K;
-    cin >> A >> B >> K;
-    int c= 0;
-    int x = A;
-    for(int i = 0; A >= B; i++){
-        x = x * K; 
-        c++;
-        
+    long long a,b,k;
+    cin >> a >> b >> k;
+    int x = 0;
+    while(b > a){
+        a = a * k;
+        x++;
     }
-    cout << c << endl;
+    cout << x << endl;
 }

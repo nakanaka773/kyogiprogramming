@@ -11,4 +11,15 @@ int main()
         count = count + A[i];
     }
 
+    if((count+K) >= N * M){
+        if(N * M -count > 0){
+            cout << N * M -count << endl;
+        }else{
+            cout << 0 << endl;
+        }
+        
+    }else{
+        cout << -1 << endl;
+    }
+
 }
