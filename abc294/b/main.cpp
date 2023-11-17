@@ -12,10 +12,12 @@ int main()
             if(a[i][j] == 0){
                 x[i][j] = '.';
             }else{
-                x[i][j] = a[i][j]+'a';
+                x[i][j] = a[i][j]-33+'a';
             }
+            cout << x[i][j];
         }
+        cout << endl;
     }
-    cout << x[h][w] << endl;
+    
 
 }
