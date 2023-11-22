@@ -19,43 +19,71 @@
       "id": "abc288_b",
       "label": "B",
       "title": "Qualification Contest",
-      "url": "https://atcoder.jp/contests/abc288/tasks/abc288_b"
+      "url": "https://atcoder.jp/contests/abc288/tasks/abc288_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc288_c",
       "label": "C",
       "title": "Don’t be cycle",
-      "url": "https://atcoder.jp/contests/abc288/tasks/abc288_c"
+      "url": "https://atcoder.jp/contests/abc288/tasks/abc288_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc288_d",
       "label": "D",
       "title": "Range Add Query",
-      "url": "https://atcoder.jp/contests/abc288/tasks/abc288_d"
+      "url": "https://atcoder.jp/contests/abc288/tasks/abc288_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc288_e",
       "label": "E",
       "title": "Wish List",
-      "url": "https://atcoder.jp/contests/abc288/tasks/abc288_e"
+      "url": "https://atcoder.jp/contests/abc288/tasks/abc288_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc288_f",
       "label": "F",
       "title": "Integer Division",
-      "url": "https://atcoder.jp/contests/abc288/tasks/abc288_f"
+      "url": "https://atcoder.jp/contests/abc288/tasks/abc288_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc288_g",
       "label": "G",
       "title": "3^N Minesweeper",
-      "url": "https://atcoder.jp/contests/abc288/tasks/abc288_g"
+      "url": "https://atcoder.jp/contests/abc288/tasks/abc288_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc288_h",
       "label": "Ex",
       "title": "A Nameless Counting Problem",
-      "url": "https://atcoder.jp/contests/abc288/tasks/abc288_h"
+      "url": "https://atcoder.jp/contests/abc288/tasks/abc288_h",
+      "directory": {
+        "path": "ex",
+        "testdir": "tests"
+      }
     }
   ]
 }
